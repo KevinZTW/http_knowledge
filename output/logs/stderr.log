@@ -1,0 +1,20 @@
+Building prefix dict from the default dictionary ...
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /var/folders/w6/szbcw6rs7m9c_8chqm087dwh0000gn/T/jieba.cache
+Dumping model to file cache /var/folders/w6/szbcw6rs7m9c_8chqm087dwh0000gn/T/jieba.cache
+Loading model cost 0.800 seconds.
+Loading model cost 0.800 seconds.
+Prefix dict has been built successfully.
+Prefix dict has been built successfully.
+Building prefix dict from the default dictionary ...
+Building prefix dict from the default dictionary ...
+Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/w6/szbcw6rs7m9c_8chqm087dwh0000gn/T/jieba.cache
+Loading model from cache /var/folders/w6/szbcw6rs7m9c_8chqm087dwh0000gn/T/jieba.cache
+Loading model from cache /var/folders/w6/szbcw6rs7m9c_8chqm087dwh0000gn/T/jieba.cache
+Loading model cost 0.747 seconds.
+Loading model cost 0.747 seconds.
+Loading model cost 0.747 seconds.
+Prefix dict has been built successfully.
+Prefix dict has been built successfully.
+Prefix dict has been built successfully.

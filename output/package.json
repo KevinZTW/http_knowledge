@@ -1,0 +1,15 @@
+{
+  "name": "output",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node boapkg.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pipcook/plugins-bayesian-model-define": "1.1.0"
+  }
+}

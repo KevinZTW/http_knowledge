@@ -1,0 +1,10 @@
+start loading plugin @pipcook/plugins-csv-data-collect
+start loading plugin @pipcook/plugins-csv-data-access
+create a result "d0snx4bg" for plugin "@pipcook/plugins-csv-data-access@1.1.0"
+start loading plugin @pipcook/plugins-bayesian-model-define
+create a result "qc399pzt" for plugin "@pipcook/plugins-bayesian-model-define@1.1.0"
+start loading plugin @pipcook/plugins-bayesian-model-train
+create a result "yx4868hq" for plugin "@pipcook/plugins-bayesian-model-train@1.1.0"
+start loading plugin @pipcook/plugins-bayesian-model-evaluate
+classify MultinomialNB()
+create a result "s6ycz76w" for plugin "@pipcook/plugins-bayesian-model-evaluate@1.1.0"
